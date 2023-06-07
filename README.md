@@ -12,7 +12,7 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 ## Hardware – PCs, Cyclone II , USB flasher
 ## Software – Quartus prime
 
-**##Procedure:**
+**Procedure:**
 
 1.Create a project with required entities.
 
