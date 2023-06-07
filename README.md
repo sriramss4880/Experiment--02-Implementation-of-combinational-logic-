@@ -13,11 +13,7 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 ## Software – Quartus prime
 
 
-## Theory
- 
 
-## Logic Diagram
-## Procedure
 ## Program:
 /*
 ```
